@@ -1,2 +1,2 @@
 # World-Economic-Indicator
-Performed Analysis as a Government Data Analyst on World Economic Dataset. Brought up with insights on how GDP/Capita of a country varies and rely on what Factors for a Sustainable growth.
+I was assigned a task where i was a Data Analyst of National Economic Department where i need to analyze the world economic dataset and bring out insights for sustainable GDP/CAPITA.
